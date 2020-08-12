@@ -1,4 +1,4 @@
-Welcome to Glitch
+Covid Cash - Google CSSI Final Project
 =================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
