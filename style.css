@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  text-align: center;
+}
+
+#container {
+  padding: 0px;
+  border: 1px solid #DB5461;
+  background-color: #8EC99D;
+  border-radius: 5px;
+  justify-content: center;
+  text-align: center;
+}
+
+#gameScreen {
+  padding: 10px;
+  border: 1px solid #DB5461;
+  background-color: #8EC99D;
+  border-radius: 5px;
+  justify-content: center;
+  text-align: center;
+  width: 1000px;
+  heigth: 2000px:
+}
